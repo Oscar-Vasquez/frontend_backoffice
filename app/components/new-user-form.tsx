@@ -2,7 +2,7 @@ import { z } from 'zod';
 import { toast } from 'react-hot-toast';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
-import { UsersService } from '@/services/users';
+import { UsersService } from '@/services/users.service';
 
 const formSchema = z.object({
   // Add your schema here
