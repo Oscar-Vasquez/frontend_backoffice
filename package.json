@@ -90,7 +90,8 @@
     "tailwindcss-animate": "^1.0.7",
     "vm2": "^3.9.19",
     "zod": "^3.23.8",
-    "zustand": "^5.0.0-rc.2"
+    "zustand": "^5.0.0-rc.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.17.16",
@@ -99,6 +100,7 @@
     "@types/react-dom": "^18.3.5",
     "@types/react-simple-maps": "^3.0.6",
     "@types/react-world-flags": "^1.4.5",
+    "@types/uuid": "^9.0.0",
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "eslint-plugin-readable-tailwind": "^1.7.0",
